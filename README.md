@@ -1,3 +1,3 @@
 # Java
 
-Repositório para aplicações de Estrutura de Dados feitas em Java.
+Repository created to aplications based on Java.
